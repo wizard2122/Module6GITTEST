@@ -7,6 +7,7 @@ public class NewScript2 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("Изменения в ветке Develop");
         Debug.Log("Изменения в ветке main");
     }
 

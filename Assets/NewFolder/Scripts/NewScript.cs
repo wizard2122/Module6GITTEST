@@ -6,6 +6,8 @@ public class NewScript : MonoBehaviour
 {
     private void Start()
     {
-        Debug.Log("Первое изменение кода");
+        Debug.Log("ГЏГҐГ°ГўГ®ГҐ ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГҐ ГЄГ®Г¤Г ");
     }
+
+    private void Update(){}
 }
